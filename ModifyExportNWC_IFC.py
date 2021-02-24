@@ -30,6 +30,7 @@ import clr
 import System
 import os
 
+print("test")
 
 # flag whether this runs in debug or not
 debug_ = False
