@@ -30,7 +30,7 @@ import clr
 import System
 import os
 
-print("test")
+print("Hello World Ricky is here")
 
 # flag whether this runs in debug or not
 debug_ = False
