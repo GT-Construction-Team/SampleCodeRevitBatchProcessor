@@ -96,6 +96,8 @@ from Autodesk.Revit.DB import *
 # main:
 # -------------
 
+print("BRIAN Test!")
+
 def IFCExportView(doc):
     returnvalue = res.Result()
     ifcExportOption = rex.IFCGetThirdPartyExportConfifgByView(IFCVersion.IFC2x3)
